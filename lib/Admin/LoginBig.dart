@@ -80,7 +80,7 @@ class _LoginBigState extends State<LoginBig> {
                         textcolor: appcolors.greyText,
                         FontWeight: FontWeight.normal),
                     const CustomTextformfield(
-                        width: 450,
+                        width: 452,
                         textInputAction: TextInputAction.next,
                         textInputType: TextInputType.name,
                         hinttext: "johndoe@gmail.com"),
